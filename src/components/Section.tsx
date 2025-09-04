@@ -56,4 +56,6 @@ const Section: FC<SectionProps> = ({
   </section>
 );
 
+export { SectionHeading, SectionDescription };
+
 export default Section;
